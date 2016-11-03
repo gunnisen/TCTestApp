@@ -41,8 +41,8 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="TCTestLib, Version=1.0.0.10, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\TCTestLib.1.0.0.10\lib\net46\TCTestLib.dll</HintPath>
+    <Reference Include="TCTestLib, Version=1.0.0.13, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TCTestLib.1.0.0.13\lib\net46\TCTestLib.dll</HintPath>
       <Private>True</Private>
     </Reference>
   </ItemGroup>
