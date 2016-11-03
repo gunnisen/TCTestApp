@@ -12,7 +12,7 @@
 		<frameworkAssemblies>
 		</frameworkAssemblies>
 		<dependencies>
-			<dependency id="TCTestLib" version="1.0">
+			<dependency id="TCTestLib" version="1.0"></dependency>
 		</dependencies>
 	</metadata>
 </package>
